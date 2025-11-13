@@ -71,3 +71,9 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
+## Architecture
+
+For the end‑to‑end hardware prototype and app design, see:
+
+- `docs/architecture.md` — includes Mermaid graphs for hardware, firmware, and mobile app flows.
